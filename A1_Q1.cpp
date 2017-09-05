@@ -10,9 +10,9 @@ int main() {
 	cin>>num2;
 	cout<<"Enter an Character"<<"\n";
 	cin>>c;
-	cout<<"Entered integer literal"<<num<<"\n";
-	cout<<"Entered floating point literal"<<num1<<"\n";
-	cout<<"Entered double literal"<<num2<<"\n";
-	cout<<"Entered character literal"<<c;
+	cout<<"Entered integer literal:"<<num<<"\n";
+	cout<<"Entered floating point literal:"<<num1<<"\n";
+	cout<<"Entered double literal:"<<num2<<"\n";
+	cout<<"Entered character literal:"<<c;
 	return 0;
 }
